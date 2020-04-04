@@ -1,0 +1,19 @@
+{
+  "name": "sta-gql",
+  "version": "1.0.0",
+  "description": "Taking REST API and refactoring to Graph\u001b[Z\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danibaxx/sta-gql.git"
+  },
+  "author": "ME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danibaxx/sta-gql/issues"
+  },
+  "homepage": "https://github.com/danibaxx/sta-gql#readme"
+}
